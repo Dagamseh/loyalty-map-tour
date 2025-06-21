@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Loyalty Support Services Tour</name>
+
+    <Placemark>
+      <name>Head Office</name>
+      <description><![CDATA[
+        <h2>Head Office</h2>
+        <p>Main operations hub.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Google_Maps_icon.svg/1200px-Google_Maps_icon.svg.png" width="300"/>
+      ]]></description>
+      <Point>
+        <coordinates>35.902,31.953,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Customer Service Center</name>
+      <description><![CDATA[
+        <h2>Customer Service Center</h2>
+        <p>Dedicated to client support and loyalty programs.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Call_center_icon.svg/1024px-Call_center_icon.svg.png" width="300"/>
+      ]]></description>
+      <Point>
+        <coordinates>35.888,31.964,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
